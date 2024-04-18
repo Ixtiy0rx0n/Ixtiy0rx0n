@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ixtiy0rx0n](https://github.com/Ixtiy0rx0n)
 
-- 📝 I regularly write articles on [https://t.me/the_ixti](https://t.me/the_ixti)
-
 - 💬 Ask me about **Java, OOP, Maven, Postgresql, Spring framework, Telegram bot,**
 
 - 📫 How to reach me **xabibulloyevixtiyorxon@gmail.com**
