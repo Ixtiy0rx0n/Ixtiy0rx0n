@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ixtiyorxon</h1>
 <h3 align="center">I'm Backend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ixtiy0rx0n&label=Profile%20views&color=0e75b6&style=flat" alt="ixtiy0rx0n" /> </p>
 
 - 🔭 I’m currently working on [The Center for Scientific Research and Technology Transfer](science.tuit.uz)
 
