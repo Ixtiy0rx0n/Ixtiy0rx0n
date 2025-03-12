@@ -2,7 +2,7 @@
 <h3 align="center">I'm Backend developer.</h3>
 
 
-- 🔭 I’m currently working on [The Center for Scientific Research and Technology Transfer](science.tuit.uz)
+- 🔭 I’m currently working on [The Center for Scientific Research and Technology Transfer]([science.tuit.uz](https://science.tuit.uz/))
 
 - 🌱 I’m currently learning **Spring boot ecosystem and vue js**
 
