@@ -2,9 +2,9 @@
 <h3 align="center">I'm Backend developer.</h3>
 
 
-- 🔭 I’m currently working on [The Center for Scientific Research and Technology Transfer](https://science.tuit.uz/)
+- 🔭 I’m currently working on Zeka team
 
-- 🌱 I’m currently learning **Spring boot ecosystem and vue js**
+- 🌱 I’m currently learning **Spring boot ecosystem and vue js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ixtiy0rx0n](https://github.com/Ixtiy0rx0n)
 
