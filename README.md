@@ -7,9 +7,7 @@
 - 🔹 My favorite project: hotel management system  
   (Backend: Spring Boot · Frontend: TypeScript + React)
 - 🔹 Find me online:
-  - [X/Twitter](https://x.com/ixtiy0rx0n)
   - [LinkedIn](https://linkedin.com/in/ixtiy0rx0n)
-  - [Instagram](https://instagram.com/ixtiy0rx0n)
 - ⚽ Hobbies: Football & Cybersport (especially CS2)
 
 ## 📊 GitHub Stats
@@ -25,7 +23,7 @@
 - 🐘 PostgreSQL & MySQL
 - 🐳 Docker
 - 🐧 Linux
-- 🛡️ Git & GitHub
+- 🛡️ Git
 ---
 
 _Always learning, building, and having fun!_
